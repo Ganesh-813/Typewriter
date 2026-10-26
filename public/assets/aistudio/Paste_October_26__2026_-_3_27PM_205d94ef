@@ -1,0 +1,703 @@
+# TYPEWRITER — THE FUTURE OF WRITING, REIMAGINED IN 3D
+
+## 1. ROLE AND PRIMARY OBJECTIVE
+
+Act as a world-class creative director, 3D interaction designer, product designer, UI/UX architect, animation specialist, and full-stack web developer.
+
+Build a complete, highly polished, fully functional website named **TYPEWRITER**.
+
+TYPEWRITER is an immersive, three-dimensional writing and publishing environment where people create, edit, organize, and preserve their writing as beautiful virtual physical books.
+
+This is not a conventional journaling website. It must not look like a standard productivity dashboard with flat cards, text boxes, a sidebar, and a few buttons.
+
+Imagine combining a luxurious antique library, a futuristic spatial-computing interface, a beautifully restored mechanical typewriter, and the versatility of a modern document editor.
+
+The central concept is simple:
+
+**Your ideas are written on paper. Your paper becomes pages. Your pages become books. Your books become your personal library.**
+
+Users should be able to create as many books as their available storage plan supports, including diaries, journals, research reports, novels, manuscripts, study notes, travel logs, personal letters, professional documents, and entirely custom books.
+
+Every book has a physical-looking three-dimensional form, a cover, a spine, pages, and its own editable content. Users can organize their creations on virtual bookshelves, open them, continue writing, edit old entries, and retrieve their work whenever they return.
+
+The website should be visually astonishing without sacrificing practical usability.
+
+The result must feel like an entirely new category of digital product: a living library where a real writing workflow is combined with cinematic 3D interaction.
+
+Do not merely produce a beautiful prototype. Build the real application, connecting the 3D experience to working document creation, editing, organization, and persistence.
+
+## 2. BRAND IDENTITY
+
+The brand name is:
+
+TYPEWRITER
+
+Use this name consistently throughout the product. Do not replace it with another product name.
+
+Primary tagline:
+
+“Where every thought becomes something timeless.”
+
+Alternative supporting line:
+
+“Write it. Shape it. Preserve it.”
+
+Brand personality:
+- Intelligent and imaginative.
+- Sophisticated and timeless.
+- Quietly futuristic.
+- Creative and expressive.
+- Premium without being pretentious.
+- Professional enough for research and serious writing.
+- Personal enough for diaries and private reflections.
+
+Design a distinctive wordmark using carefully spaced, elegant typography. Pair a refined serif display typeface with a clean contemporary sans-serif for navigation and interface elements.
+
+Use a beautiful editorial typeface for book titles and a crisp monospaced typeface for the typewriter's actual printed text.
+
+The brand should be recognizable even without its logo because of its unique spatial interface, material quality, signature typewriter, and distinctive book-shelf experience.
+
+## 3. VISUAL ART DIRECTION
+
+Create a visual language that combines antique craftsmanship with futuristic luxury.
+
+Imagine a dark, atmospheric private library that has been redesigned by a leading contemporary industrial designer.
+
+Use:
+- Deep walnut wood.
+- Blackened metal.
+- Aged brass and antique gold.
+- Burgundy and espresso leather.
+- Warm ivory and aged parchment.
+- Soft amber lighting.
+- Subtle glass interfaces.
+- Delicate spatial highlights.
+- Beautifully controlled shadows.
+- Fine material textures.
+
+Color palette:
+
+- Midnight charcoal: #151311
+- Deep espresso: #261A14
+- Dark walnut: #493124
+- Burgundy leather: #54292D
+- Antique brass: #9B7747
+- Muted gold: #C4A66A
+- Aged parchment: #E6D5B5
+- Warm ivory: #F5EDDF
+- Ink black: #2C241F
+- Soft smoke grey: #A7A096
+
+Use the dark library as the atmospheric foundation, but ensure that the actual writing areas remain bright, readable, and comfortable for long writing sessions.
+
+The 3D objects must have real-looking material properties. Leather should have fine grain. Wood should show subtle grain direction. Metal should have controlled reflections. Paper should have visible fibres and gentle edge variation.
+
+The futuristic character should come from the spatial experience, transitions, precision, responsive interactions, and subtle modern interface—not from excessive neon lights, cyberpunk colours, or distracting holographic decorations.
+
+Use liquid-glass-inspired interface elements sparingly. Every panel, label, and control should have a specific purpose.
+
+## 4. THE CINEMATIC LANDING-PAGE INTRODUCTION
+
+The first visit should create an unforgettable impression.
+
+### Opening frame
+
+Start in near-total darkness.
+
+A few subtle particles appear in a narrow beam of warm light. An immense antique writing desk gradually emerges from the darkness, revealing the outline of a mechanical typewriter and a collection of leather-bound books.
+
+The camera slowly glides forward through this atmospheric space.
+
+The typewriter is initially still.
+
+Then one mechanical key depresses. A typebar strikes the paper. A single character appears.
+
+The machine begins typing the word:
+
+TYPEWRITER
+
+Each character should appear in synchronization with a believable mechanical typing animation. The sound, if enabled, should be subtle and satisfying.
+
+As the final character appears, the paper advances gently, and the camera moves around the machine to reveal an illuminated library stretching into the background.
+
+The wordmark transitions into a clean, elegant title:
+
+TYPEWRITER
+
+Below it:
+
+“Where every thought becomes something timeless.”
+
+Display two understated actions:
+
+“ENTER YOUR LIBRARY”
+
+“EXPLORE THE EXPERIENCE”
+
+Make the first the primary action. The second should open a short guided preview of the typewriter, page, and bookshelf interactions.
+
+The entrance animation should last approximately four to seven seconds and must be skippable. Returning users should be able to enter their workspace directly.
+
+### Transition into the application
+
+When a user enters, the camera travels smoothly toward the desk. The surrounding library gradually becomes interactive.
+
+An antique book slides gently into place on a nearby shelf. The typewriter becomes active. A few subtle interface elements appear around the scene.
+
+This transition establishes the application's main concept without requiring a lengthy tutorial.
+
+Respect reduced-motion preferences and provide a direct, low-animation route to the main application.
+
+## 5. THE MAIN ENVIRONMENT — A LIVING THREE-DIMENSIONAL LIBRARY
+
+After entering, users arrive in their personal virtual library.
+
+The library should feel like a carefully designed physical environment, not a conventional dashboard disguised with a background image.
+
+Create a beautiful spatial composition with:
+
+- A substantial walnut writing desk.
+- An extraordinary antique mechanical typewriter.
+- Multiple bookshelves containing the user's books.
+- A dedicated area for recently opened books.
+- An elegant space for creating a new book.
+- A restrained control interface.
+- A warm, cinematic background with depth and carefully controlled lighting.
+
+Users should be able to see their books as actual three-dimensional objects arranged on shelves.
+
+Use realistic perspective, soft ambient shadows, subtle parallax, and restrained camera movement.
+
+The camera can respond gently to cursor movement when the user is exploring the library. However, avoid uncontrolled camera rotation. Provide stable camera controls for normal use.
+
+Build the library from modular elements so that it can accommodate a growing collection of books.
+
+When the user creates additional books, automatically arrange them on existing shelves where possible and add shelves or allow navigation to additional library sections as the collection grows.
+
+Do not impose an arbitrary small limit on the number of books visible in the library. The application should support a scalable collection, subject to the user's actual storage allowance.
+
+### Navigation
+
+Create a minimal, elegant navigation system with access to:
+
+- My Library.
+- Continue Writing.
+- Recent Documents.
+- Collections.
+- Search.
+- Settings.
+- Account and Storage.
+
+The navigation should complement the 3D environment. It may appear as a refined vertical control rail, a slim upper navigation bar, or a context-sensitive panel.
+
+Do not place giant dashboard panels over the environment.
+
+The visual world should remain the primary experience, while navigation stays clear and efficient.
+
+## 6. CREATE YOUR OWN BOOK — THE SIGNATURE FEATURE
+
+Users must be able to create different kinds of books without being restricted to a single diary format.
+
+Create a beautiful “CREATE NEW BOOK” experience.
+
+When the user selects it, a new three-dimensional book appears on the desk as a preview. Its cover, material, spine, title, and page style can change as the user customizes it.
+
+Allow users to choose the type of book they wish to create.
+
+### Built-in book types
+
+**A. Personal Diary**
+
+Designed for daily entries, reflections, important moments, and private thoughts.
+
+Features: dates, entry titles, chronological organization, editable content, and a calm writing experience.
+
+**B. Journal**
+
+Designed for ongoing thoughts, ideas, observations, experiences, and personal exploration.
+
+Features: dated entries, flexible page organization, tags, and an easy way to revisit earlier writing.
+
+**C. Research Report**
+
+Designed for academic investigations, scientific research, project documentation, and analytical work.
+
+Features: title page, abstract, headings, subheadings, numbered sections, references, tables, research notes, and a structured table of contents.
+
+**D. Book or Manuscript**
+
+Designed for fiction, nonfiction, essays, long-form writing, and creative projects.
+
+Features: chapters, sections, chapter titles, an editable table of contents, chapter navigation, and long-form document organization.
+
+**E. Study Notebook**
+
+Designed for subjects, notes, concepts, revision, and learning.
+
+Features: subject organization, headings, lists, equations where supported, topic sections, and search.
+
+**F. Travel Journal**
+
+Designed for recording trips, memorable experiences, locations, and observations.
+
+Features: dated entries, headings, optional image attachments, and location labels.
+
+**G. Letters and Correspondence**
+
+Designed for personal letters, draft messages, historical-style correspondence, and longer written reflections.
+
+Features: recipient, date, subject, editable body, and optional decorative letterhead.
+
+**H. Custom Book**
+
+Allows users to create their own document type and customize its layout, cover, page style, and organizational structure.
+
+Do not force every document type into the same template. Each should have a suitable structure, while using one consistent product design language.
+
+### Book creation workflow
+
+When creating a book, ask for:
+
+- Book title.
+- Book type.
+- Optional subtitle.
+- Cover design.
+- Cover material or colour.
+- Page layout.
+- Optional collection or category.
+
+Provide a live 3D preview as the user changes these options.
+
+The book should update its physical appearance immediately.
+
+For example, a research report might use a restrained, professional hardbound cover, while a personal diary might use burgundy leather with antique-gold detailing.
+
+A novel could have a custom illustrated cover. A travel journal could feature a subtle antique map motif.
+
+Allow users to edit these choices later without losing their content.
+
+Include a simple “Create Book” action that creates a real, persistent book in the user's library.
+
+Do not generate only a decorative model. The new book must be connected to an actual document record with its own content and metadata.
+
+## 7. THE CUSTOMIZABLE 3D BOOK SYSTEM
+
+Every book should be a recognizable physical object.
+
+Create several carefully designed base models and material combinations that can represent many individual books without generating an unnecessarily complex new 3D mesh for every creation.
+
+Allow customization of:
+
+- Front-cover material.
+- Cover colour.
+- Leather, fabric, or hardbound appearance.
+- Embossed or engraved decorative details.
+- Title placement.
+- Spine title.
+- Gold, brass, or restrained silver accents.
+- Page colour.
+- Ruling lines.
+- Page margins.
+- Book thickness as the document grows.
+- Optional cover illustration.
+
+The physical object should correspond to the user's actual book.
+
+A thick manuscript should look more substantial than a newly created notebook. A book with saved entries should visually retain its identity when the user closes and reopens the application.
+
+Make book titles readable on the spine where the available geometry permits. For narrow books, display a shorter title and show the complete name on selection.
+
+### Book interaction
+
+On hover, gently highlight the selected book and move it forward slightly.
+
+On selection, bring it toward the camera and reveal its title, category, and available actions.
+
+Clicking “OPEN” should trigger a cinematic transition in which the cover opens around the spine hinge and the pages become visible.
+
+Clicking the spine or a designated book-control area should never accidentally delete or modify the document.
+
+Provide clear actions for opening, renaming, moving, duplicating, and archiving books.
+
+Deleting a book must require confirmation.
+
+## 8. THE ANTIQUE MECHANICAL TYPEWRITER
+
+Create an exceptional, highly detailed, three-dimensional mechanical typewriter located on the writing desk.
+
+It should have a dark burgundy or black enamelled body, aged brass trim, a full set of individually animated round keys, a realistic cylindrical platen, a carriage, paper guides, a paper bail, and a believable typebar assembly.
+
+Use premium materials, intricate mechanical details, and physically plausible proportions.
+
+The machine should be the recognizable signature object of TYPEWRITER.
+
+Each key should have a clearly visible letter or character legend. The keys must respond to actual keyboard input when the user is typing.
+
+When a key is pressed:
+
+1. Animate the corresponding visual key downward.
+2. Move the corresponding typebar or representative striking mechanism toward the page.
+3. Show a brief, believable contact action.
+4. Reveal the actual typed character on the paper.
+5. Advance the carriage appropriately.
+6. Return the key and mechanism to their resting positions.
+
+The response must be immediate enough for comfortable typing.
+
+At the end of a line, animate a smooth carriage return, advance the paper by one line, and resume writing.
+
+Use subtle mechanical sounds when enabled. Include independent sound controls and ensure that the default audio experience is not intrusive.
+
+Support ordinary keyboard input, punctuation, spaces, newlines, editing, and corrections.
+
+The typewriter should not be an animation that merely plays independently. It must be synchronized with the actual text entered by the user.
+
+## 9. THE LIVE PAPER-WRITING EXPERIENCE
+
+When a book is opened for writing, transition into an interactive workspace centered on the typewriter and its paper.
+
+The user must be able to type using their real computer keyboard.
+
+Create a genuine editable text input as the underlying source of truth, and display the same text accurately on the three-dimensional paper.
+
+The writing surface should have a light, aged-parchment texture with crisp, readable dark ink.
+
+For diary and journal templates, include delicate horizontal lines and a subtle vertical margin. For research reports and manuscripts, use a more suitable document layout while preserving the overall aesthetic.
+
+Keep the text within the page margins. Use sensible line wrapping and line spacing. Ensure that the visible text remains aligned with its actual document content.
+
+If the paper is displayed at an angle, align a transparent HTML or equivalent rendering layer with the page using the correct perspective transformation. The text should look as though it belongs to the paper rather than floating in front of it.
+
+Do not bake user-generated text into permanent texture maps.
+
+The user must be able to select, correct, replace, edit, and delete text using normal editing controls.
+
+Provide a clear way to switch between immersive typewriter mode and a comfortable, more traditional editing mode for situations where long-form editing requires precise cursor placement, selection, formatting, or accessibility support.
+
+The visual mode should remain beautifully immersive, but functionality must take priority over animation.
+
+## 10. PAPER COMPLETION AND BOOK-BINDING ANIMATION
+
+Create the signature transition that connects typing to preserving a finished page.
+
+When the user fills a sheet, stop at the appropriate page boundary and show a subtle completion state.
+
+Do not automatically archive the page before the content has been saved successfully.
+
+Offer:
+
+“PRESERVE THIS PAGE”
+
+“CONTINUE WRITING”
+
+When the user chooses to preserve the page:
+
+- The typewriter finishes its current line.
+- The carriage returns smoothly.
+- The paper-release mechanism opens.
+- The completed sheet slides gently out of the platen.
+- The sheet retains the exact typed content.
+- The camera follows the paper toward the selected book.
+- The book opens to the correct destination.
+- The sheet aligns with the intended archive page.
+- The page settles into the book with a believable paper-bending animation.
+- A subtle confirmation indicates that the page has been preserved successfully.
+
+The visual metaphor should suggest that the user's words have become a permanent page in their personal book.
+
+For diary and journal entries, treat the sheet as a preserved page of the document. For a research report or manuscript, insert the page into the relevant section of that document.
+
+Keep the underlying document content and its structure intact throughout the animation.
+
+The paper-transfer effect is a visual representation of a completed writing operation—not the actual mechanism of data storage. Save the page to the application first, confirm success, and then perform the celebratory animation.
+
+If the user chooses to continue writing, load a fresh sheet or transition into the next page without losing the previous content.
+
+Make the animation skippable. Never force the user to wait through a long sequence after every page.
+
+## 11. THE BOOK EDITOR AND PAGE SYSTEM
+
+The inside of every book should be a fully functional editing environment.
+
+When the book opens, the user should see a beautifully modelled page or spread.
+
+Support real document editing, including:
+
+- Editing existing entries.
+- Creating new pages.
+- Renaming entries.
+- Editing dates and titles.
+- Moving between pages.
+- Adding and organizing chapters.
+- Adding headings and subheadings.
+- Applying appropriate formatting for the selected book type.
+- Inserting images where supported.
+- Creating tables or lists where appropriate.
+- Searching within a book.
+- Reordering relevant sections.
+- Saving and retrieving changes.
+
+Diary entries should support multiple independently editable entries. A long-form book should support chapters and sections rather than treating the entire manuscript as a single diary entry.
+
+A research report should support structured sections and a navigable contents panel.
+
+All content must be stored independently from the 3D visuals so that a user can change a cover, page texture, or animation without affecting their writing.
+
+### Page navigation
+
+Allow page turns using elegant previous/next controls, page-edge interactions where reliable, and direct navigation through the document's index.
+
+Animate page turns with natural curvature and smooth easing.
+
+Avoid unnecessary long transitions during normal navigation.
+
+If the user is editing text, prevent accidental page turns or loss of unsaved input.
+
+## 12. THE PERSONAL BOOKSHELF AND LIBRARY MANAGEMENT
+
+Every created book should appear in the user's personal 3D library.
+
+Users must be able to maintain a growing collection, not just four predefined books.
+
+Support:
+
+- Creating many books.
+- Organizing books into custom collections or shelves.
+- Moving books between shelves.
+- Renaming books.
+- Changing cover styles.
+- Duplicating a book as a new document.
+- Archiving a book.
+- Searching by title or document content.
+- Sorting by title, type, creation date, or last edited.
+- Opening recently edited books.
+- Pinning favourite books.
+- Filtering by document type.
+- Browsing all books in a collection.
+- Deleting a book with confirmation.
+
+Allow dragging and dropping books onto different shelves where reliable interaction can be implemented.
+
+When a collection becomes large, introduce additional library sections, shelf pagination, or a compact list view. Keep the 3D bookshelf visually beautiful without making large collections difficult to navigate.
+
+Always provide a clear alternative to browsing books spatially, such as search or an accessible list of documents.
+
+The user's library must persist between visits and be associated with the correct account.
+
+## 13. A UNIQUE BOOK-CREATION AND ORGANIZATION EXPERIENCE
+
+Create a beautiful spatial workflow for adding new material to the library.
+
+The user should feel as though they are creating a real book.
+
+When a new book is created:
+
+1. A blank physical-looking book appears on the desk.
+2. Its cover begins in a neutral default style.
+3. The user chooses a title and document type.
+4. The cover updates in real time.
+5. The page design changes according to the chosen template.
+6. The user confirms the creation.
+7. The book closes gently and moves to the appropriate bookshelf.
+8. The shelf makes room for the new book.
+9. The new item becomes available in the library and can be opened immediately.
+
+When the user opens a fresh book for the first time, provide a subtle prompt to begin writing.
+
+Avoid interrupting returning users with repeated onboarding screens.
+
+Make the experience fluid and satisfying while preserving a fast route to the actual task.
+
+## 14. DOCUMENT SEARCH, INDEXING AND RECOVERY
+
+Create a minimal but powerful search system.
+
+Allow searching by:
+
+- Book title.
+- Entry title.
+- Page content.
+- Chapter title.
+- Tag or collection.
+- Date where appropriate.
+
+When a matching result is selected, open the correct book and navigate to the relevant entry, page, or section.
+
+Preserve the relationship between pages and their parent documents.
+
+For example, a 30-page research report should remain a single report with navigable sections, not 30 unrelated entries.
+
+Similarly, a diary with 200 entries should be searchable and editable without requiring the user to flip through every page manually.
+
+Include a recent-documents view and a straightforward way to recover a draft after a refresh or unexpected interruption.
+
+## 15. PROFESSIONAL UI/UX AND MICRO-INTERACTIONS
+
+The interface should feel like a premium creative tool made for people who care deeply about writing.
+
+Use a consistent spacing system, clear hierarchy, refined iconography, restrained borders, and accessible typography.
+
+Every interaction should provide immediate and understandable feedback.
+
+Use subtle motion for:
+
+- Book selection.
+- Shelf rearrangement.
+- Book opening.
+- Page turning.
+- Panel transitions.
+- Typing.
+- Carriage return.
+- Paper release.
+- Successful page preservation.
+- Creation of a new book.
+- Saving and loading states.
+
+Avoid excessive bouncing, spring effects that feel cartoonish, constant floating, overly bright neon glows, and decorative interactions that slow down frequent actions.
+
+Create smooth transitions without sacrificing typing responsiveness.
+
+Provide clear hover, focus, pressed, disabled, loading, saved, and error states.
+
+Never make ordinary functionality dependent on hidden hover interactions alone.
+
+## 16. ACCOUNT, STORAGE AND PRIVACY
+
+Implement an appropriate persistence architecture.
+
+Every book and its content must be saved as actual application data, not just maintained inside a temporary 3D scene.
+
+For a multi-user product, provide account creation, secure authentication, and a database-backed storage layer.
+
+Store the relevant information for:
+- User accounts.
+- Books.
+- Document type and template.
+- Book appearance and cover settings.
+- Pages, chapters, and entries.
+- Text content and formatting.
+- Creation and modification timestamps.
+- Collections and shelf positions.
+- Archive state.
+- Relevant version or recovery metadata.
+
+Use an appropriate data model so that long-form books, short journal entries, and structured reports can all be represented correctly.
+
+Save edits automatically using a robust save process. Debounce frequent edits where appropriate, but do not sacrifice data integrity. Show clear saving and saved indicators based on the actual storage response.
+
+Consider local draft recovery when network connectivity is interrupted.
+
+Allow users to export supported documents and download their work in useful formats such as plain text, Markdown, or PDF where implemented.
+
+Keep private writing private. Do not expose one user's documents to another account. Use secure access controls and avoid putting private content into public URLs or unnecessary browser logs.
+
+Support a scalable library and provide transparent storage usage and plan limits. Do not promise infinite storage without limits. The user should be able to create as many books as the application and their actual storage allowance support, with any restrictions clearly communicated.
+
+## 17. TECHNICAL ARCHITECTURE
+
+Build the website as a real application with a clean separation between the 3D environment, interface, document editor, and persistence layer.
+
+Use a suitable modern web stack, such as React or Next.js with TypeScript. Use Spline for authored 3D scenes where appropriate, or a Three.js/React Three Fiber implementation when the required interactions demand more direct control.
+
+Keep document content, editor state, typewriter animations, book metadata, and database operations separate.
+
+Connect the 3D scene to actual application state. For example, selecting a book should select the real book record; typing should update real document state; archiving a page should preserve the corresponding content; and selecting a saved entry should retrieve the right content.
+
+Use reusable models and material variations for large book collections rather than generating an entirely new complex 3D asset for every individual book.
+
+Treat animations as interface feedback rather than the source of truth for saving, editing, or deleting information.
+
+If an operation depends on the server, wait for its actual result before displaying successful completion.
+
+Where a feature cannot be implemented in the current environment, identify the limitation clearly and create the appropriate integration point. Do not replace essential functionality with a nonworking visual imitation.
+
+## 18. RESPONSIVE DESIGN AND ACCESSIBILITY
+
+Although the desktop experience should be the most spectacular, the website must remain functional on smaller displays.
+
+On desktop, use the full spatial library, detailed mechanical typewriter, and cinematic book transitions.
+
+On tablets, simplify the environment slightly while retaining the ability to open books, edit content, and use the archive.
+
+On mobile, prioritize readable pages, reliable touch interactions, practical document editing, and sensible camera framing. Simplify or reduce expensive 3D effects as necessary.
+
+The interface must remain usable through keyboard navigation, visible focus indicators, clear labels, and accessible alternatives to spatial interactions.
+
+Support reduced motion. Do not force long animations on users who prefer a quieter interface.
+
+Do not let visual spectacle compromise text legibility, privacy, or ease of writing.
+
+## 19. PERFORMANCE AND VISUAL QUALITY
+
+Prioritize responsiveness and the quality of the central objects.
+
+Optimize 3D assets, textures, shadows, transparent materials, and particle effects.
+
+Avoid unnecessary high-polygon models in distant background objects.
+
+Keep the typewriter's key animations and text rendering responsive to real keystrokes.
+
+Use loading states for large scenes and meaningful visual fallbacks if a 3D asset cannot load.
+
+Ensure that a user can still reach their books and edit their text if the 3D environment experiences a rendering problem.
+
+The application must remain useful even on less powerful devices.
+
+## 20. ACCEPTANCE TESTS — WHAT MUST ACTUALLY WORK
+
+Before treating the website as complete, verify all of the following:
+
+1. The landing page displays the TYPEWRITER brand and its cinematic introduction.
+2. The user can enter the personal library.
+3. The user can create different types of books with custom titles and designs.
+4. Newly created books appear on the user's shelves.
+5. The user can create additional books and navigate a growing collection.
+6. Opening a book reveals its real stored content.
+7. Actual keyboard input appears correctly on the typewriter's paper.
+8. Mechanical key animations respond to corresponding user input.
+9. The typewriter performs a visual carriage return at the end of a line.
+10. The user can edit existing text and correct mistakes.
+11. Completed pages can be archived without losing their content.
+12. The paper-transfer animation corresponds to a real saved page.
+13. The user can reopen, edit, and retrieve archived entries.
+14. Multiple pages and chapters remain associated with their correct documents.
+15. Search, navigation, and book organization work with real data.
+16. Changes persist after a refresh and subsequent visit, using the configured storage architecture.
+17. Save indicators represent actual save outcomes.
+18. Important actions have clear error handling and confirmation where necessary.
+19. The application remains usable when 3D effects are reduced or unavailable.
+20. The design remains readable, responsive, and usable on desktop, tablet, and mobile.
+
+Do not declare a feature complete merely because its animation plays. Test the underlying action and verify that the relevant data is saved and retrievable.
+
+## 21. FINAL CREATIVE DIRECTION
+
+The final product should feel like entering a world that combines the soul of an antique writing room with the possibilities of future-generation computing.
+
+It should be beautiful enough for people to explore for its visual design, practical enough for serious daily writing, and reliable enough to preserve meaningful personal work.
+
+The typewriter is the instrument.
+
+The pages are the creative space.
+
+The books are the projects.
+
+The shelves are the user's personal world.
+
+Build a cohesive product in which all these parts work together seamlessly.
+
+Do not settle for a static website, a simple 3D showcase, a set of decorative cards, or a nonfunctional prototype.
+
+Create TYPEWRITER as a distinctive, immersive, fully functional writing environment.
+
+**The final feeling should be this:**
+
+A user enters a magnificent library that belongs to them. They create a new burgundy leather journal and place it on a shelf. They select it, move to the writing desk, and begin typing on a mechanical typewriter. Each key responds. Each letter appears on warm parchment. The completed page is preserved inside the book. Later, the user can return, edit the entry, continue writing, or create an entirely new research report or manuscript.
+
+Their library grows with their ideas.
+
+Their writing remains theirs.
+
+Every detail should communicate craftsmanship, intelligence, timelessness, and a quietly extraordinary future.
+
+Make TYPEWRITER unforgettable.

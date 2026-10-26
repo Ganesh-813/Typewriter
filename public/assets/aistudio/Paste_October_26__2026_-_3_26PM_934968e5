@@ -1,0 +1,675 @@
+# THE MEMORY ATELIER — THE ANTIQUE TYPEWRITER & LIVING DIARY EXPERIENCE
+
+## 1. THE MASTER VISION
+
+Design an extraordinarily beautiful, premium, immersive 3D journaling experience called “The Memory Atelier.”
+
+This must feel like an interactive scene from an atmospheric historical film, not a conventional note-taking website. The primary object is an exquisitely detailed antique mechanical typewriter, placed on an old wooden writing desk inside a luxurious, dimly illuminated private library. Beside it sits a magnificent, thick, leather-bound antique diary that serves as the permanent archive for everything the user writes.
+
+The defining interaction is that the user types on their actual computer keyboard, and the physical typewriter responds in real time. Mechanical keys depress, typebars strike the ink ribbon and paper, the carriage moves character by character, and freshly typed letters appear on the parchment. When a sheet reaches the end of its writing area, it can be detached and transferred into the antique diary, where it becomes another preserved page in the user's personal collection.
+
+The website should combine the tactile nostalgia of historical writing instruments with the responsiveness and usability of a modern digital application.
+
+Creative direction:
+- Historical craftsmanship inspired by late nineteenth-century and early twentieth-century mechanical typewriters.
+- Luxurious dark academia, antique libraries, aged brass, mahogany, walnut, burgundy leather, and old parchment.
+- Highly detailed, realistic 3D modelling with physically convincing proportions.
+- Smooth, cinematic camera movements and carefully choreographed mechanical animations.
+- Minimal, refined, editorial user-interface design.
+- A peaceful, intimate atmosphere designed for personal reflection, memories, daily journaling, letters, and creative writing.
+
+The entire experience should feel tangible. The typewriter must look like a real mechanical object with individually constructed parts, not a generic plastic keyboard. The diary must look like an old treasured book, not a flat decorative asset.
+
+Prioritize material quality, interaction accuracy, readability, and animation craftsmanship. Avoid cartoonish proportions, excessive glow, generic SaaS dashboards, oversized interface buttons, meaningless floating particles, and animations that interrupt the writing process.
+
+## 2. BRAND IDENTITY AND VISUAL LANGUAGE
+
+Use the product name:
+
+THE MEMORY ATELIER
+
+Main tagline:
+
+“Every thought deserves to be remembered.”
+
+Secondary line:
+
+“Write your story. Preserve it for a lifetime.”
+
+Use a sophisticated editorial serif typeface for the brand, elegant typography for page titles, and a highly readable typewriter-inspired monospaced font for typed entries.
+
+The visual language should communicate patience, permanence, craftsmanship, and quiet luxury.
+
+Use this palette:
+
+- Deep charcoal: #171310
+- Espresso brown: #281B15
+- Dark walnut: #453025
+- Mahogany: #5B3025
+- Aged burgundy: #542C2D
+- Antique brass: #9D7946
+- Burnished gold: #C4A66A
+- Aged parchment: #E6D4B0
+- Warm ivory: #F5EBDD
+- Typewriter ink: #30251E
+- Muted olive: #77745A
+
+Gold and brass must look like real aged metal, not flat yellow paint. Avoid overly saturated colors. Let the warm parchment and metallic details stand out naturally against the dark surroundings.
+
+## 3. THE CINEMATIC INTRODUCTION
+
+Start with a nearly dark environment.
+
+Gradually reveal an enormous antique walnut desk with a softly polished surface. In the background, show indistinct silhouettes of tall wooden bookshelves, old books, leather-bound volumes, and the architectural details of an ancient private library.
+
+A narrow shaft of warm amber light enters from a tall window outside the main frame. Extremely subtle dust particles drift through this light.
+
+At the center of the desk stands the antique typewriter, with its keyboard, carriage, platen, paper support, and mechanical frame visible in silhouette.
+
+Beside it lies a closed antique diary with a thick leather cover, ornate brass detailing, and visibly layered yellowed page edges.
+
+Begin the camera at a low three-quarter angle, slightly above the level of the desk. Slowly move toward the typewriter as the warm light reveals its details.
+
+A single soft reflection travels across the brass body. The keys become visible one by one as the illumination grows.
+
+Reveal the brand name:
+
+“THE MEMORY ATELIER”
+
+Below it, show:
+
+“Every thought deserves to be remembered.”
+
+Then display a discreet interaction:
+
+“ENTER YOUR WRITING ROOM”
+
+Make the title feel like a high-end book-cover inscription. Do not place a giant modern button over the scene.
+
+On entry, transition the camera gracefully toward the desk, bringing the typewriter and diary into the main composition.
+
+The introductory animation should last approximately four to six seconds and should be skippable. Returning users should be able to proceed directly to their writing desk.
+
+## 4. THE HERO OBJECT — AN EXCEPTIONAL ANTIQUE TYPEWRITER
+
+The typewriter is the heart of this experience. Give it substantially more detail than any other object.
+
+Build an elaborate, realistic, mechanically inspired antique typewriter with physically believable structure.
+
+Use a vintage writing machine with a dark burgundy and black enamelled body, aged brass trim, polished dark metal components, and subtly worn surfaces.
+
+The machine should look expensive, handcrafted, and historically plausible.
+
+### A. The main body
+
+Construct a sturdy, gently curved metal housing with a deep burgundy enamel finish and black inset panels.
+
+The enamel should have a soft, refined sheen with tiny imperfections, delicate edge wear, and subtle changes in roughness. Avoid a toy-like plastic appearance.
+
+Introduce fine engraved decorative lines, narrow brass borders, tasteful floral motifs, and restrained historical ornamentation.
+
+Add a small central nameplate engraved with:
+
+“MEMORY ATELIER”
+
+The nameplate should look like a physically attached brass plate with carefully modelled edges, realistic screws, and engraved lettering.
+
+Use a few understated gold highlights along selected edges.
+
+Include visible attachment points, joints, metal brackets, and structural details where appropriate. The design must remain mechanically coherent.
+
+### B. The keyboard
+
+Create a complete, old-fashioned typewriter keyboard with individual round or slightly concave keycaps.
+
+Each key should have a dark surface, an aged brass or bronze rim, a distinct cylindrical stem, and a clearly visible character legend.
+
+Use a warm ivory or faded cream colour for the letters on the keys.
+
+The keycaps must be arranged in a believable mechanical keyboard layout, with appropriate spacing and proportions.
+
+Include alphanumeric keys, punctuation, a large spacebar, a backspace key where appropriate to the chosen design, and functional modifier keys.
+
+The keys must be individually modelled or grouped in a way that permits independent animation.
+
+When the user types, the corresponding key must depress into the keyboard frame and return smoothly to its original position.
+
+Add a small physical movement of the connected mechanical linkage where feasible.
+
+Individual keys must not randomly bounce. Every animation should correspond to a real keyboard input.
+
+### C. The mechanical typebars
+
+Behind the keyboard, create a visible mechanical typebar assembly inspired by traditional manual typewriters.
+
+Model thin metal arms, pivot joints, guide elements, and small type slugs arranged in a mechanically plausible cluster.
+
+When a character is typed, animate the corresponding typebar moving quickly toward the paper, making contact with the ink ribbon and the writing surface, then returning to its resting position.
+
+If full individual typebar simulation is too complex for the scene, build a carefully designed set of representative moving parts and reuse the appropriate visible motion while retaining the illusion of a functioning mechanical machine.
+
+The important requirement is that the typing animation feels precise, immediate, and physically connected to the user's keystrokes.
+
+Avoid random mechanical movement unrelated to the input.
+
+### D. The carriage and platen
+
+Construct a convincing carriage assembly spanning the width of the typewriter.
+
+Include a cylindrical black platen roller, a visible paper-feed mechanism, metal end brackets, a paper bail, and appropriate guide rollers.
+
+The paper should pass around the platen in a physically believable path.
+
+As each character is typed, the carriage should advance by a small, consistent distance corresponding to the chosen character width.
+
+The visual movement should be subtle but noticeable enough to communicate the machine's mechanics.
+
+At the end of each line, animate the carriage returning smoothly to the beginning of the next line.
+
+The return motion should include a short, satisfying mechanical flourish. A subtle bell-like sound may play when sound is enabled.
+
+The platen and carriage must not move randomly, detach from their mounts, or interfere with the paper.
+
+### E. Mechanical finish
+
+Use high-quality materials:
+
+- Aged brass with subtle scratches and restrained metallic reflections.
+- Blackened steel with a matte or satin finish.
+- Dark enamel with fine historical surface imperfections.
+- Warm ivory key legends.
+- Polished mechanical rods and metal pivots.
+- Fine cast-metal detailing around the body.
+- Subtle wear around frequently touched components.
+
+Use soft cinematic lighting that brings out the difference between the enamelled housing, the black metal parts, and the brass details.
+
+The result must feel like a lovingly restored antique instrument displayed in a private museum.
+
+## 5. THE PAPER — AGED, TACTILE AND BEAUTIFULLY DETAILED
+
+The paper must be one of the most carefully crafted elements.
+
+Place a genuine-looking sheet of aged parchment into the typewriter's platen and paper guides.
+
+The paper must be warm ivory rather than pure white. Use subtle fibrous grain, delicate variations in colour, gently darker edges, and restrained ageing.
+
+Include faint, uneven speckles, tiny natural imperfections, and subtle surface texture that becomes visible when the camera moves close.
+
+The sheet should have believable thickness and a gentle natural bend as it passes over the cylindrical platen.
+
+Its upper portion must emerge visibly above the typewriter.
+
+The paper must remain light enough to move naturally but stiff enough to retain its shape.
+
+Avoid extremely dark, dirty, heavily stained parchment. This is a luxurious antique writing experience, so the paper must remain clean, bright, and readable.
+
+When blank, the sheet should have enough texture to feel authentic without competing with the text.
+
+Do not bake the user’s words into a texture. The typed content must remain separate, editable text rendered over the paper.
+
+The paper should respond to the warm lighting, with soft shadows around the platen and beneath the paper guides.
+
+## 6. THE REAL-TIME TYPING EXPERIENCE
+
+This is the central functional requirement.
+
+The user must be able to type on their actual computer keyboard and see the antique typewriter respond immediately.
+
+Use an appropriately positioned HTML text input, textarea, or equivalent application-layer input as the source of truth for the text. Align a transparent or visually integrated text-rendering layer with the visible paper in the 3D scene.
+
+The visual text must correspond exactly to the actual content entered by the user.
+
+Do not create a fake typing animation that generates random words independently of the user's input.
+
+### Typing behaviour
+
+When the user presses a character key:
+
+1. Detect the corresponding keyboard input.
+2. Animate the matching visual key downward.
+3. Animate the corresponding typebar or representative striking mechanism.
+4. Briefly show the typebar contacting the ink ribbon and page.
+5. Reveal the actual character at the current position on the paper.
+6. Advance the carriage by the correct visual distance.
+7. Return the key and mechanism to their resting positions.
+
+These actions should happen with extremely little delay, so each letter feels connected to the user's physical input.
+
+Use subtle variations in timing to give the mechanics character, but keep the response fast enough for comfortable typing.
+
+A single keystroke should not trigger the entire typewriter to shake.
+
+### Text appearance
+
+Render the letters in dark brown or faded black ink.
+
+Use a highly legible monospaced or typewriter-inspired typeface with believable mechanical spacing.
+
+Include subtle ink density variation only if it can be achieved without reducing legibility. Avoid excessive blur, random missing letters, distorted characters, and artificial smudges that make the user's writing difficult to read.
+
+The typed text should appear directly on the paper, not in a floating modern text box detached from the machine.
+
+Preserve actual Unicode text content in the underlying input, even if the visible typewriter animation uses a simplified representation for unsupported characters.
+
+Support selection, editing, and corrections through the real input layer. For backspace or deletion, animate an appropriate corrective response, but never pretend that a mechanical typewriter can physically erase ink without an additional correction mechanism.
+
+The writing must remain editable and must be captured accurately for saving.
+
+### Line advancement
+
+When the line reaches its writing boundary, perform a realistic carriage-return sequence:
+
+- Stop the current line at the correct margin.
+- Play a short, subtle bell sound when enabled.
+- Move the carriage back to the beginning of the next line.
+- Advance the paper vertically by approximately one line of spacing.
+- Reveal the next typing position.
+- Resume accepting text immediately.
+
+Do not allow characters to extend past the paper's margins or disappear behind the mechanical frame.
+
+Ensure that ordinary typing, spaces, punctuation, newlines, longer paragraphs, and corrections are handled sensibly.
+
+## 7. THE PAPER FEED ANIMATION
+
+The paper should be physically connected to the typewriter throughout the writing session.
+
+At the start, feed the blank sheet into the platen with a subtle mechanical setup animation.
+
+When the first letter is typed, keep the paper mostly stationary vertically while the carriage advances horizontally. As the text progresses down the page, the visible writing region naturally moves relative to the platen and the sheet.
+
+Use the actual line count and layout to determine the next writing position.
+
+When the user reaches the lower portion of the paper:
+
+- Keep the printed text aligned correctly with the sheet.
+- Animate the paper-feed mechanism.
+- Show the paper advancing gradually around the platen.
+- Retain a physically believable relationship between the paper and rollers.
+- Never move the paper so quickly that it becomes visually disconnected from the typing.
+
+Use an elegant, satisfying paper-feeding animation for page transitions.
+
+The sheet should feel like a real object being advanced through a mechanical writing instrument.
+
+## 8. WHEN THE PAPER IS FULL — THE SIGNATURE ARCHIVING ANIMATION
+
+This is the most important storytelling moment after real-time typing.
+
+When the writing area reaches the bottom of the sheet, do not simply reset the paper or erase the content.
+
+Instead, trigger a beautiful, carefully choreographed paper-archiving sequence.
+
+The page should remain filled with the actual words the user typed.
+
+### Phase 1 — The final line
+
+When the final writing line is reached, allow the last character to print normally.
+
+The typebar strikes the paper. The carriage completes its movement. A subtle mechanical bell sounds.
+
+Then the machine settles.
+
+The camera gently moves closer to the completed page to emphasize the typed text.
+
+### Phase 2 — Completion state
+
+Reveal a discreet message:
+
+“THIS PAGE IS READY TO BE PRESERVED.”
+
+Show two elegant options when the application supports them:
+
+“ARCHIVE THIS PAGE”
+
+“CONTINUE ON ANOTHER SHEET”
+
+Do not force an automatic archive if the user still needs to save, edit, or review the entry.
+
+The user may choose to archive the page immediately, or the interface can offer an automatic archive mode in the settings.
+
+### Phase 3 — Release the sheet
+
+When the user confirms the archive action, animate the paper bail or release mechanism opening.
+
+The completed page should slide gently upward and out of the platen.
+
+The paper must retain its rectangular shape and preserve all its actual typed content.
+
+Add a subtle, believable bending motion as the sheet separates from the machine.
+
+Do not tear away the paper violently or distort the writing.
+
+### Phase 4 — The journey to the diary
+
+Beside the typewriter, the ancient leather-bound diary begins to open.
+
+Its cover rotates around a believable spine hinge, revealing thick, layered antique pages.
+
+The completed typewritten sheet rises slightly above the desk, moves toward the open book, and rotates into the correct orientation.
+
+Keep the motion slow, smooth, and carefully controlled. The sheet must remain readable enough to identify it as the user's completed writing.
+
+Use warm directional light to follow the page subtly during its journey.
+
+### Phase 5 — Attachment to the diary
+
+The open diary should present a clean page or an appropriate position in its archive.
+
+The completed typewritten sheet descends gently and aligns precisely with the intended destination page.
+
+Create the illusion that the sheet is being inserted, mounted, or permanently attached into the diary.
+
+Use one of these visually coherent approaches:
+
+- The paper settles onto an existing parchment page as an attached manuscript sheet.
+- The page slides under subtle antique corner mounts or a discreet paper hinge.
+- The sheet is placed into the diary's binding area and becomes the next preserved leaf in the archive.
+
+Choose the approach that produces the most believable animation and consistent page geometry.
+
+The paper must not simply teleport into the book.
+
+As it settles, show a subtle contact shadow, gentle paper flex, and slight movement in the underlying page.
+
+Then make the sheet part of the archive. The typed content must remain digitally associated with that saved entry.
+
+### Phase 6 — The memory is preserved
+
+Once the sheet is attached, the diary settles gently.
+
+A warm highlight moves across its aged page edges and leather cover.
+
+Reveal a small, elegant confirmation:
+
+“YOUR WORDS ARE PRESERVED.”
+
+Show the saved entry's date and title discreetly.
+
+The camera may linger on the open diary for a moment before returning to the typewriter.
+
+The machine should then be ready to load a fresh blank sheet, allowing the user to continue writing without losing the previous page.
+
+The complete archive animation should be approximately four to seven seconds, with smooth acceleration, natural deceleration, and no abrupt cuts.
+
+All animations should be interruptible or skippable when necessary for usability.
+
+## 9. THE ANTIQUE DIARY — A PERMANENT ARCHIVE
+
+The diary is the companion hero object to the typewriter.
+
+Create a thick, richly textured, antique leather-bound journal resting beside the writing machine.
+
+Use deep espresso or burgundy leather with fine grain, slightly worn corners, realistic stitching, a thick curved spine, and delicately embossed antique-brass or gold ornamentation.
+
+Add carefully modelled spine bands, decorative cover borders, and a central title plate engraved:
+
+“THE BOOK OF MEMORIES”
+
+The front cover must have believable thickness and remain connected to the spine when opening.
+
+The diary must contain a thick, visibly layered page block made from warm ivory parchment.
+
+Each exposed page edge should have subtle yellowed colouring, fine fibres, mild irregularities, and gently worn corners.
+
+Include an aged-paper texture and restrained historical imperfections. Avoid pages that look like plain white printer paper.
+
+The inner diary pages should have refined antique ruling lines, a delicate vertical margin, and a small date/title region.
+
+When the diary opens, the page structure must reveal a believable binding and page thickness.
+
+The typewriter's completed sheets should visually integrate with this diary rather than behaving like unrelated loose objects.
+
+Allow the diary to be selected, opened, closed, and browsed through the saved archive.
+
+## 10. BROWSING PRESERVED MEMORIES
+
+Create an elegant way to revisit previously typed entries.
+
+When the diary is opened, display the archived pages in chronological order.
+
+Each preserved page should retain its actual content, date, title, and unique entry identifier.
+
+Show a subtle archive index that allows the user to find past entries quickly without sacrificing the immersive design.
+
+Include:
+- Previous and next page navigation.
+- An archive index or entry list.
+- Search by entry title or content.
+- A new-writing action that returns to the typewriter.
+- A clear action to return to the writing desk.
+- Delete or remove options with confirmation when supported.
+
+The interface should feel like exploring a personal historical manuscript collection.
+
+When an archived entry is selected, the camera may slowly transition to the relevant page. Preserve the correct content and avoid regenerating it as a new entry.
+
+For a long entry that requires multiple sheets, preserve the relationship between all pages of that entry. Present them as a connected entry in the archive rather than separate unrelated memories.
+
+## 11. THE WRITING DESK AND LIBRARY ENVIRONMENT
+
+Construct an exceptionally beautiful dark walnut desk with a large, substantial surface, subtle grain, softly rounded edges, and a refined satin finish.
+
+Place the typewriter as the main visual focal point. Position the diary beside it, with enough room for the completed page to move naturally toward the book.
+
+Add a few restrained props:
+
+- A small antique brass desk lamp.
+- An elegant fountain pen.
+- A closed envelope with a wax seal.
+- A small brass paperweight.
+- One or two vintage books.
+- A modest ink bottle.
+
+These objects must remain secondary. Do not clutter the paper-transfer path or obscure the main machine.
+
+In the distant background, build a softly illuminated private library with dark wood shelves, old books, and subtle architectural detailing.
+
+Do not make every background object equally detailed. The typewriter, the current paper, and the diary must receive the strongest visual attention.
+
+Use depth, composition, lighting, and shadow to guide the user's gaze naturally between the typewriter and the archive book.
+
+## 12. LIGHTING AND MATERIAL QUALITY
+
+The scene must feel physically convincing and cinematographically lit.
+
+Use a warm key light positioned above and slightly to one side of the typewriter.
+
+Add soft fill illumination so the dark enamel and black metal parts remain visible.
+
+Use a subtle rim light to separate the machinery and the diary from the background.
+
+Create realistic contact shadows beneath the machine, on the desk, under the paper, and between the pages of the diary.
+
+Use controlled metallic reflections on brass components. Their highlights should move naturally as the camera or objects move.
+
+The leather should have tactile microtexture and soft roughness variation. The paper should diffuse warm light, revealing its fibres without making the text hard to read.
+
+Avoid heavy bloom, excessive glow, overly reflective metal, plastic-looking leather, and shadows so dark that mechanical details disappear.
+
+During writing, prioritize clear text rendering over cinematic depth of field.
+
+## 13. CAMERA SYSTEM AND TRANSITIONS
+
+Create four deliberate camera compositions.
+
+**LIBRARY INTRO:** A low, cinematic three-quarter view of the writing desk, typewriter, and diary.
+
+**TYPEWRITER HERO:** A close three-quarter view emphasizing the mechanical keyboard, paper, carriage, and materials.
+
+**ACTIVE WRITING:** A stable close view that clearly shows the typing keys, actual text appearing on the paper, and the paper-feed mechanism.
+
+**DIARY ARCHIVE:** An overhead three-quarter view of the open antique diary and its preserved pages.
+
+Transition between the camera compositions using smoothly eased movement.
+
+During ordinary writing, keep the camera mostly stable. Avoid automatic orbiting, constant zooming, or camera movements that make typing uncomfortable.
+
+During the paper-archiving animation, guide the camera subtly from the machine toward the diary, ensuring the transfer remains visible.
+
+Return to the active-writing composition only after the animation has completed and the application is ready for further input.
+
+## 14. UI/UX — MODERN FUNCTIONALITY WITH AN ANTIQUE SOUL
+
+Design a refined interface that complements the scene instead of competing with it.
+
+Use small, legible, well-spaced interface elements with understated borders and restrained brass accents.
+
+The interface may contain:
+
+- The “THE MEMORY ATELIER” wordmark.
+- A discreet current-entry title.
+- The current date.
+- A writing-status indicator.
+- A word and character count.
+- An archive access control.
+- A new-sheet or new-entry action.
+- A save or archive action.
+- A subtle audio toggle.
+- A reduced-motion or animation-skip setting.
+
+The interface must never obscure essential text or cover the typewriter's mechanisms.
+
+During active writing, the actual paper and the mechanical response should dominate the view.
+
+Use unobtrusive visual feedback to communicate when an entry is being edited, when saving is in progress, and when the save has successfully completed.
+
+Do not show a successful-saving state until the actual save operation has returned success.
+
+All primary actions should work with mouse, keyboard, and touch where appropriate. Do not rely exclusively on hover to communicate functionality.
+
+## 15. ACTUAL FUNCTIONALITY AND DATA HANDLING
+
+Treat the 3D scene and the journaling application as two connected but separate systems.
+
+The 3D scene is responsible for the physical typewriter, the mechanical animation, the paper, the diary, and the visual transitions.
+
+The application layer is responsible for capturing real keyboard input, maintaining the text, formatting pages, saving entries, retrieving old entries, and tracking which pages belong to each entry.
+
+Implement the writing interface with a genuine editable input rather than placing the user's entire text into a static 3D texture.
+
+Keep the entry text in application state so that it can be edited, saved, retrieved, and rendered correctly.
+
+For every completed page, maintain an association between:
+- The actual typed text.
+- The entry title.
+- The entry date.
+- Its page number.
+- The parent entry identifier.
+- The archived or unarchived status.
+
+When the user confirms the paper-transfer animation, archive the corresponding page in the application.
+
+The 3D animation must not be the only place where the writing exists.
+
+If browser-local persistence is implemented, use an appropriate storage mechanism so that entries remain available after a refresh and a later visit in the same browser.
+
+For a more permanent, account-based journaling product, use an appropriate database and authentication layer. Make that integration a separate, clearly identified requirement rather than assuming that Spline itself automatically supplies a complete storage backend.
+
+The real typing interface should support normal text entry, editing, spaces, punctuation, newlines, and long entries. Keep the user's underlying text accurate even where an older typewriter would not physically support every modern character.
+
+## 16. PERFORMANCE AND RESPONSIVENESS
+
+Make the scene feel responsive on ordinary modern laptops and reasonably capable mobile devices.
+
+Prioritize the typewriter and diary over the complexity of the distant environment.
+
+Use reusable key animations, sensible texture resolution, efficient geometry, limited particles, and restrained shadows.
+
+Avoid constructing hundreds of unnecessarily complex mechanical objects when a smaller number of well-modelled, logically grouped parts can create the same visual effect.
+
+On smaller screens, adjust the camera composition and simplify the interface while keeping the text legible.
+
+Allow the user to skip lengthy transitions, reduce motion, and return quickly to the active-writing mode.
+
+The typewriter must respond promptly during normal typing. Do not delay input while a decorative animation is running.
+
+## 17. SCENE STRUCTURE AND ANIMATION ORGANIZATION
+
+Organize the scene into clearly named objects and logical groups wherever possible.
+
+TYPEWRITER:
+- Main enamel body.
+- Keyboard base.
+- Individual keycaps.
+- Key mechanisms.
+- Typebar assembly.
+- Platen roller.
+- Carriage assembly.
+- Paper bail.
+- Paper guides.
+- Return mechanism.
+- Decorative nameplate.
+
+PAPER:
+- Current writing sheet.
+- Editable text layer.
+- Writing margins.
+- Paper texture.
+- Paper-feed position.
+- Completed-page state.
+
+DIARY:
+- Front cover.
+- Back cover.
+- Spine.
+- Binding.
+- Page block.
+- Inner page surfaces.
+- Antique decoration.
+- Archived-page display.
+
+ENVIRONMENT:
+- Writing desk.
+- Background shelves.
+- Props.
+- Lighting.
+- Atmospheric elements.
+
+INTERACTION STATES:
+- Intro.
+- Active writing.
+- Line return.
+- Page completed.
+- Archive confirmation.
+- Paper release.
+- Paper transfer.
+- Diary attachment.
+- Archive browsing.
+- Fresh sheet loaded.
+
+Use reusable, logically defined animation sequences.
+
+The scene should have clear transitions between states, with no accidental triggers, overlapping animations, or unpredictable camera movements.
+
+Where full functionality requires custom code or additional website implementation, create the visual scene and named elements so the functionality can be connected reliably.
+
+## 18. FINAL QUALITY REQUIREMENTS
+
+The final experience must prioritize the following, in order:
+
+1. An exceptionally detailed, luxurious, antique mechanical typewriter.
+2. Authentic key movements and an unmistakable mechanical typing experience.
+3. Real user text appearing accurately on the paper as they type.
+4. A physically convincing platen, paper-feed system, and carriage return.
+5. Beautiful aged paper with readable, crisp text.
+6. A cinematic, believable transition when a completed sheet is transferred into the diary.
+7. A thick, richly textured, antique leather-bound diary that preserves the user's writing.
+8. A refined library environment and excellent cinematic lighting.
+9. An intuitive interface for saving, editing, and browsing memories.
+10. Responsive performance and smooth, purposeful motion.
+
+Do not replace the mechanical typewriter with a modern keyboard. Do not replace the diary with a flat image. Do not generate pretend text unrelated to the actual user input. Do not discard a filled page after its animation.
+
+Build this as one coherent interactive experience in which the typewriter is the instrument of creation and the antique diary is the permanent archive.
+
+The emotional ending of every writing session should feel like this:
+
+The user finishes typing. The final character strikes the parchment. The machine returns its carriage with a gentle mechanical flourish. A completed sheet is released, lifted carefully through the warm library light, and placed into the open leather-bound diary. The page settles into its place, joining the user's collection of preserved memories.
+
+The typewriter is ready for the next thought.
+
+The diary keeps the last one.
+
+Make the mechanical details beautiful, the animations deeply satisfying, and the writing experience genuinely functional.

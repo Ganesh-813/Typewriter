@@ -1,0 +1,115 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .font-cinzel {
+    font-family: 'Cinzel', serif;
+  }
+  .font-serif-vintage {
+    font-family: 'Cormorant Garamond', Georgia, serif;
+  }
+  .font-typewriter {
+    font-family: 'Courier Prime', 'Special Elite', monospace;
+  }
+  .parchment-texture {
+    background-color: #E8D8B8;
+    background-image: 
+      radial-gradient(circle at 50% 50%, rgba(255,255,255,0.2) 0%, rgba(0,0,0,0.06) 100%),
+      repeating-linear-gradient(45deg, rgba(160, 120, 80, 0.015) 0px, rgba(160, 120, 80, 0.015) 1px, transparent 1px, transparent 4px);
+    box-shadow: inset 0 0 40px rgba(90, 60, 30, 0.15), 0 10px 30px rgba(0,0,0,0.4);
+  }
+  .leather-texture {
+    background-image: radial-gradient(circle at 30% 30%, rgba(255,255,255,0.08) 0%, transparent 60%),
+      repeating-radial-gradient(circle at 50% 50%, rgba(0,0,0,0.12) 0, rgba(0,0,0,0.12) 1px, transparent 1px, transparent 3px);
+  }
+
+  /* Liquid Glass Design System */
+  .liquid-glass {
+    background: linear-gradient(135deg, rgba(32, 23, 18, 0.72) 0%, rgba(20, 15, 12, 0.82) 50%, rgba(12, 9, 7, 0.90) 100%);
+    backdrop-filter: blur(24px) saturate(160%);
+    -webkit-backdrop-filter: blur(24px) saturate(160%);
+    border: 1px solid rgba(196, 166, 106, 0.28);
+    border-top: 1px solid rgba(250, 240, 220, 0.42);
+    border-left: 1px solid rgba(250, 240, 220, 0.22);
+    box-shadow: 
+      inset 0 1px 1px 0 rgba(255, 255, 255, 0.18),
+      inset 0 0 20px 0 rgba(196, 166, 106, 0.08),
+      0 20px 50px -10px rgba(0, 0, 0, 0.75);
+  }
+
+  .liquid-glass-modal {
+    background: linear-gradient(145deg, rgba(28, 20, 16, 0.82) 0%, rgba(18, 14, 11, 0.88) 55%, rgba(11, 8, 7, 0.94) 100%);
+    backdrop-filter: blur(28px) saturate(170%);
+    -webkit-backdrop-filter: blur(28px) saturate(170%);
+    border: 1px solid rgba(196, 166, 106, 0.35);
+    border-top: 1px solid rgba(255, 245, 225, 0.55);
+    border-left: 1px solid rgba(255, 245, 225, 0.25);
+    box-shadow: 
+      inset 0 1.5px 1.5px 0 rgba(255, 255, 255, 0.22),
+      inset 0 0 30px 0 rgba(196, 166, 106, 0.09),
+      inset 0 -1px 2px 0 rgba(0, 0, 0, 0.6),
+      0 30px 80px -15px rgba(0, 0, 0, 0.95);
+  }
+
+  .liquid-glass-scrim {
+    background: radial-gradient(circle at 50% 40%, rgba(35, 22, 16, 0.45) 0%, rgba(5, 4, 3, 0.78) 100%);
+    backdrop-filter: blur(14px);
+    -webkit-backdrop-filter: blur(14px);
+  }
+
+  .liquid-glass-card {
+    background: linear-gradient(135deg, rgba(42, 28, 21, 0.55) 0%, rgba(24, 17, 13, 0.68) 100%);
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    border: 1px solid rgba(196, 166, 106, 0.25);
+    border-top: 1px solid rgba(255, 245, 225, 0.35);
+    box-shadow: 
+      inset 0 1px 1px 0 rgba(255, 255, 255, 0.12),
+      0 8px 24px -4px rgba(0, 0, 0, 0.5);
+  }
+
+  .liquid-glass-card:hover {
+    background: linear-gradient(135deg, rgba(58, 38, 28, 0.68) 0%, rgba(34, 23, 17, 0.78) 100%);
+    border-color: rgba(196, 166, 106, 0.5);
+    border-top-color: rgba(255, 245, 225, 0.55);
+    box-shadow: 
+      inset 0 1px 1px 0 rgba(255, 255, 255, 0.22),
+      inset 0 0 15px 0 rgba(196, 166, 106, 0.12),
+      0 12px 30px -4px rgba(0, 0, 0, 0.65);
+  }
+
+  .liquid-glass-input {
+    background: rgba(12, 9, 7, 0.65);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border: 1px solid rgba(196, 166, 106, 0.32);
+    border-top: 1px solid rgba(0, 0, 0, 0.6);
+    box-shadow: 
+      inset 0 2px 5px 0 rgba(0, 0, 0, 0.6),
+      inset 0 0 1px 0 rgba(255, 255, 255, 0.05);
+  }
+
+  .liquid-glass-input:focus {
+    background: rgba(16, 12, 9, 0.85);
+    border-color: rgba(196, 166, 106, 0.8);
+    box-shadow: 
+      inset 0 2px 4px 0 rgba(0, 0, 0, 0.7),
+      0 0 0 1px rgba(196, 166, 106, 0.4),
+      0 0 12px 0 rgba(196, 166, 106, 0.25);
+  }
+}
+
+/* Custom scrollbar for dark academia aesthetic */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: rgba(30, 20, 15, 0.5);
+}
+::-webkit-scrollbar-thumb {
+  background: #9D7946;
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #C4A66A;
+}

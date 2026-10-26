@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="108" fill="#151311"/>
+  <!-- Gilded Border -->
+  <rect x="24" y="24" width="464" height="464" rx="88" fill="none" stroke="#C4A66A" stroke-width="6" stroke-opacity="0.8"/>
+  <rect x="36" y="36" width="440" height="440" rx="76" fill="none" stroke="#9D7946" stroke-width="2" stroke-dasharray="8 6" stroke-opacity="0.5"/>
+  
+  <!-- Typewriter Platen & Paper Graphic -->
+  <!-- Parchment Sheet -->
+  <path d="M176 100 L336 100 L336 280 L176 280 Z" fill="#E8D5AF" stroke="#C4A66A" stroke-width="4"/>
+  <!-- Paper lines -->
+  <line x1="196" y1="130" x2="316" y2="130" stroke="#9D7946" stroke-width="3" stroke-opacity="0.5"/>
+  <line x1="196" y1="160" x2="316" y2="160" stroke="#9D7946" stroke-width="3" stroke-opacity="0.5"/>
+  <line x1="196" y1="190" x2="280" y2="190" stroke="#9D7946" stroke-width="3" stroke-opacity="0.5"/>
+  
+  <!-- Platen Roller -->
+  <rect x="120" y="240" width="272" height="48" rx="8" fill="#281B15" stroke="#9D7946" stroke-width="4"/>
+  <circle cx="116" cy="264" r="22" fill="#C4A66A"/>
+  <circle cx="396" cy="264" r="22" fill="#C4A66A"/>
+  
+  <!-- Typewriter Base Frame -->
+  <path d="M100 288 L412 288 L432 416 L80 416 Z" fill="#3D1E20" stroke="#C4A66A" stroke-width="6"/>
+  <rect x="140" y="304" width="232" height="92" rx="8" fill="#1A1411" stroke="#9D7946" stroke-width="3"/>
+  
+  <!-- Mechanical Brass Keycaps -->
+  <circle cx="170" cy="326" r="12" fill="#C4A66A" stroke="#151311" stroke-width="3"/>
+  <circle cx="204" cy="326" r="12" fill="#C4A66A" stroke="#151311" stroke-width="3"/>
+  <circle cx="238" cy="326" r="12" fill="#C4A66A" stroke="#151311" stroke-width="3"/>
+  <circle cx="272" cy="326" r="12" fill="#C4A66A" stroke="#151311" stroke-width="3"/>
+  <circle cx="306" cy="326" r="12" fill="#C4A66A" stroke="#151311" stroke-width="3"/>
+  <circle cx="340" cy="326" r="12" fill="#C4A66A" stroke="#151311" stroke-width="3"/>
+  
+  <circle cx="186" cy="354" r="12" fill="#C4A66A" stroke="#151311" stroke-width="3"/>
+  <circle cx="220" cy="354" r="12" fill="#C4A66A" stroke="#151311" stroke-width="3"/>
+  <circle cx="254" cy="354" r="12" fill="#C4A66A" stroke="#151311" stroke-width="3"/>
+  <circle cx="288" cy="354" r="12" fill="#C4A66A" stroke="#151311" stroke-width="3"/>
+  <circle cx="322" cy="354" r="12" fill="#C4A66A" stroke="#151311" stroke-width="3"/>
+  
+  <!-- Spacebar -->
+  <rect x="200" y="376" width="112" height="12" rx="4" fill="#C4A66A"/>
+</svg>
